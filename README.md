@@ -1,4 +1,4 @@
-Check out https://cwrk.ai and https://gist.github.com/wjkoh.
+I write AI agents in Go. Check out https://cwrk.ai and https://gist.github.com/wjkoh.
 
 <!---
 wjkoh/wjkoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
