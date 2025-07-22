@@ -1,6 +1,4 @@
-👋 Hi, I’m @wjkoh
-
-Check out https://cwrk.ai
+Check out https://cwrk.ai and https://gist.github.com/wjkoh.
 
 <!---
 wjkoh/wjkoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
