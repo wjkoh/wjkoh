@@ -1,5 +1,7 @@
 👋 I'm a developer at [Cowork AI](https://cwrk.ai/), where I build AI agents 🤖 using Go.
 
+We're hiring! [Cowork AI와 함께할 Go 엔지니어를 찾습니다.](https://gist.github.com/wjkoh/60c1e22551007219dfebf6d1dcb33137)
+
 My philosophy is simplicity and efficiency. I love working with:
 * ✨ Gemini
 * 🚀 HTMX
