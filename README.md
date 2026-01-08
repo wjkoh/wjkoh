@@ -1,6 +1,7 @@
-👋 I'm a developer at [Cowork AI](https://cwrk.ai/), where I build AI agents 🤖 using Go.
+> [!NOTE]
+> **We're hiring!** Chekc out [Cowork AI와 함께할 Go 엔지니어를 찾습니다.](https://cwrk.ai/posts/hiring-go-engineers-for-cowork-ai-ko/)
 
-We're hiring! [Cowork AI와 함께할 Go 엔지니어를 찾습니다.](https://gist.github.com/wjkoh/60c1e22551007219dfebf6d1dcb33137)
+👋 I'm the founder and CEO of [Cowork AI](https://cwrk.ai/), where I build AI agents 🤖 using Go.
 
 My philosophy is simplicity and efficiency. I love working with:
 * ✨ Gemini
