@@ -9,6 +9,7 @@ My philosophy is simplicity and efficiency. I love working with:
 * 🗃️ SQLite
 * 🍦 Vanilla CSS & JavaScript
 * 📦 The Go Standard Library
+* ❄️ NixOS
 
 Check out [my snippets](https://gist.github.com/wjkoh) to see what I'm tinkering with!
 
