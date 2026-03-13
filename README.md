@@ -1,6 +1,3 @@
-> [!NOTE]
-> **We're hiring!** Check out [Cowork AI와 함께할 Go 엔지니어를 찾습니다.](https://cwrk.ai/posts/hiring-go-engineers-for-cowork-ai-ko/)
-
 👋 I'm the founder and CEO of [Cowork AI](https://cwrk.ai/), where I build AI agents 🤖 using Go.
 
 My philosophy is simplicity and efficiency. I love working with:
